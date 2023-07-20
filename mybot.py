@@ -23,4 +23,4 @@ async def heh(ctx, count_heh = 5):
 async def password(ctx):
     await ctx.send(gen_pass(10))
 
-bot.run("ADD YOUR TOKEN")
+bot.run("ADD YOUR TOKEN HERE")
